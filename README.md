@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBf22a)](https://github.com/LucasBf22/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBf22&hide=stars,commits,prs,issues,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBf22&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBf22&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBf22&show_icons=true&theme=github_dark)
+
 <!--
 **LucasBf22/LucasBf22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
