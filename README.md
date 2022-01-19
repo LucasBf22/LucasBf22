@@ -20,14 +20,18 @@
 </div>
        <h2> Social network </h2>
 <div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/lucas-batista-06507420b">
-  <img aling="center" alt="Lucas-linkedin" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  <a href="https://www.linkedin.com/in/lucas-batista-06507420b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/lucasbatistaf40/">
-  <img aling="center" alt="Lucas-Insta" height="30" width="70" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/lucasbatistaf40/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:lucasbf09@yahoo.com.br" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
   
+
 
 <!--
 **LucasBf22/LucasBf22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
